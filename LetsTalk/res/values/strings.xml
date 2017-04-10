@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LetsTalk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_signupdetails">Signupdetails</string>
+    <string name="title_activity_proceed">Proceed</string>
+
+</resources>

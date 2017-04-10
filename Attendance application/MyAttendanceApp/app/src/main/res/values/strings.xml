@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAttendanceApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_update_attendance">UpdateAttendance</string>
+    <string name="title_activity_mark_attendance">MarkAttendance</string>
+    <string name="title_activity_manage_attendance">ManageAttendance</string>
+    <string name="title_activity_enter_subject_detail">EnterSubjectDetail</string>
+    <string name="title_activity_view_attendance">ViewAttendance</string>
+</resources>

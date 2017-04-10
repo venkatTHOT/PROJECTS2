@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingTop="200px"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.avinashgurjar.myattendanceapp.ManageAttendance"
+    tools:showIn="@layout/manage_attendance"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/markAttendance"
+        android:paddingTop="20px"
+        android:text="Mark Attendance"
+        android:layout_gravity="center"
+        android:layout_width="250px"
+        android:layout_height="wrap_content"
+        android:onClick="markAttendance"
+        android:clickable="true"
+
+
+        />
+    <Button
+        android:id="@+id/viewAttendance"
+        android:paddingTop="20px"
+        android:text="View Attendance"
+        android:layout_gravity="center"
+        android:layout_width="250px"
+        android:layout_height="wrap_content"
+        android:onClick="viewAttendance"
+        android:clickable="true"
+
+        />
+    <Button
+
+        android:id="@+id/updateAttendance"
+        android:paddingTop="20px"
+        android:text="Update Attendance"
+        android:layout_gravity="center"
+        android:layout_width="300px"
+        android:layout_height="wrap_content"
+        android:onClick="updateAttendance"
+        android:clickable="true"
+
+        />
+
+
+</LinearLayout>

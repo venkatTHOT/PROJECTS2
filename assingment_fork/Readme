@@ -1,0 +1,15 @@
+
+	/************** for client**************/
+	/************** command line argument**************/
+	
+	 gcc client.c ClientFunction.c -o makefile 
+	./makefile input.txt 127.0.0.1 8001
+
+
+	
+
+	/************** for server**************/
+	/************** command line argument**************/
+
+	gcc server.c StudentDatabase.c -o makefile
+	./makefile 8001 output.txt

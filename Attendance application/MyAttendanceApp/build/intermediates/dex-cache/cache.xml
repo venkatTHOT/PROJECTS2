@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AVINASH GURJAR\AndroidStudioProjects\MyAttendanceApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\AVINASH GURJAR\AndroidStudioProjects\MyAttendanceApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_2bc303d73cc80d5220ae07bcc05757ad1e17cf98.jar" />
+    </item>
+    <item
+        jar="C:\Users\AVINASH GURJAR\AndroidStudioProjects\MyAttendanceApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\AVINASH GURJAR\AndroidStudioProjects\MyAttendanceApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_d86c3b324ba91d8351bfba9f5e7337026f0d2034.jar" />
+    </item>
+    <item
+        jar="C:\Users\AVINASH GURJAR\AndroidStudioProjects\MyAttendanceApp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\AVINASH GURJAR\AndroidStudioProjects\MyAttendanceApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_160f1b3938d84b328d26c222619b1269b4dc7157.jar" />
+    </item>
+    <item
+        jar="C:\Users\AVINASH GURJAR\AndroidStudioProjects\MyAttendanceApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\AVINASH GURJAR\AndroidStudioProjects\MyAttendanceApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_0117514243b40390d5100a85b9203c94c6649923.jar" />
+    </item>
+    <item
+        jar="C:\Users\AVINASH GURJAR\AndroidStudioProjects\MyAttendanceApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\AVINASH GURJAR\AndroidStudioProjects\MyAttendanceApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_dfe88b6c12311c3bfd92249a7d1258044fbc4971.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\AVINASH GURJAR\AndroidStudioProjects\MyAttendanceApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15.jar" />
+    </item>
+
+</items>
